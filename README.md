@@ -15,7 +15,7 @@ This repository contains the C++ port of this layout.
 ## Introduction
 When typing in Avro Keyboard’s phonetic layout, we often have to press **Shift** repeatedly, which disrupts typing flow and continuity. As a result, typing speed cannot increase much beyond a certain limit. In China, a romanization system called *Pinyin* uses case-insensitive phonetic mapping. That’s why we’re trying to bring similar speed improvements to Bangla romanization-based typing. With Pinyin-based input methods, the Chinese can type their complex language even faster than English.  
 
-Development of the Khipro keyboard is still ongoing. If you have complaints or suggestions, please contact us using the [link](#contact) below.  
+If you have complaints or suggestions, please contact us using the [link](#contact) below.  
 
 ## How It Works & Features
 <img src="https://github.com/rank-coder/khipro-m17n/assets/54497225/441be89b-2bba-4886-8f70-cb96745a5f3f" width=40% height=40%>
