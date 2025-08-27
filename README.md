@@ -4,7 +4,7 @@ Khipro is a Bengali keyboard layout that aims to provide the fastest typing expe
 
 This repository contains the C++ port of this layout.
 
-[Read in English](README.en.md)  
+  
 ## Our Website  
 ### https://KhiproKeyboard.github.io  
 
