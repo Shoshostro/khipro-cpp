@@ -71,6 +71,7 @@ unordered_map<string, string> consonants_map = {
     {"b", "ব"}, {"v", "ভ"}, {"m", "ম"}, {"l", "ল"},
     {"sh", "শ"}, {"sf", "ষ"}, {"s", "স"}, {"h", "হ"},
     {"y", "য়"}, {"rf", "ড়"}, {"rff", "ঢ়"}, {",,", "়"}};
+
 unordered_map<string, string> conjuncts_map = {
     {"rz", "র‍্য"},
     {"kk", "ক্ক"},
