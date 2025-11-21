@@ -99,7 +99,7 @@ unordered_map<string, string> conjuncts_map = {
     // impossible conjuncts_map
     {"ksh", "কশ"}, {"nsh", "নশ"}, {"psh", "পশ"}, {"ld", "লদ"}, {"gd", "গদ"}, {"ngkk", "ঙ্কক"}, {"ngks", "ঙ্কস"}, {"ngfkk", "ঙ্কক"}, {"ngfks", "ঙ্কস"},
     {"cn", "চন"},
-    {"cngf", "চঙ"}, {"cnf", "চণ"}, {"cnz", "চন্য"}, {"cnm", "চন্ম"},
+        {"cngf", "চঙ"}, {"cnf", "চণ"}, {"cnz", "চন্য"}, {"cnm", "চন্ম"},
 		{"cngk", "চঙ্ক"}, {"cngkt", "চঙ্‌ক্ত"}, {"cngkz", "চঙ্ক্য"}, {"cngkr", "চঙ্ক্র"}, {"cngkf", "চঙ্ক্ষ"}, {"cngkkh", "চঙ্ক্ষ"}, {"cngksf", "চঙ্ক্ষ"}, {"cngkh", "চঙ্খ"}, {"cngg", "চঙ্গ"}, {"cnggz", "চঙ্গ্য"}, {"cnggh", "চঙ্ঘ"}, {"cngghz", "চঙ্ঘ্য"}, {"cngghr", "চঙ্ঘ্র"}, {"cngm", "চঙ্ম"},
 		{"cngfk", "চঙ্ক"}, {"cngfkt", "চঙ্‌ক্ত"}, {"cngfkz", "চঙ্ক্য"}, {"cngfkr", "চঙ্ক্র"}, {"cngfkf", "চঙ্ক্ষ"}, {"cngfkkh", "চঙ্ক্ষ"}, {"cngfksf", "চঙ্ক্ষ"}, {"cngfkh", "চঙ্খ"}, {"cngfg", "চঙ্গ"}, {"cngfgz", "চঙ্গ্য"}, {"cngfgh", "চঙ্ঘ"}, {"cngfghz", "চঙ্ঘ্য"}, {"cngfghr", "চঙ্ঘ্র"}, {"cngfm", "চঙ্ম"},
 		{"cnc", "চঞ্চ"}, {"cnffc", "চঞ্চ"}, {"cnj", "চঞ্জ"}, {"cnffj", "চঞ্জ"}, {"cnjh", "চঞ্ঝ"}, {"cnffjh", "চঞ্ঝ"}, {"cnch", "চঞ্ছ"}, {"cnffch", "চঞ্ছ"},
@@ -118,7 +118,7 @@ unordered_map<string, string> conjuncts_map = {
 		{"cnthrff", "চন্থঢ়"}, {"cndrf", "চন্দড়"}, {"cndrff", "চন্দঢ়"}, {"cndhrf", "চন্ধড়"}, {"cndhrff", "চন্ধঢ়"},
 		{"cngksh", "চঙ্কশ"}, {"cngfksh", "চঙ্কশ"},
     {"jn", "জন"},
-    {"jngf", "জঙ"}, {"jnf", "জণ"}, {"jnz", "জন্য"}, {"jnm", "জন্ম"},
+        {"jngf", "জঙ"}, {"jnf", "জণ"}, {"jnz", "জন্য"}, {"jnm", "জন্ম"},
 		{"jngk", "জঙ্ক"}, {"jngkt", "জঙ্‌ক্ত"}, {"jngkz", "জঙ্ক্য"}, {"jngkr", "জঙ্ক্র"}, {"jngkf", "জঙ্ক্ষ"}, {"jngkkh", "জঙ্ক্ষ"}, {"jngksf", "জঙ্ক্ষ"}, {"jngkh", "জঙ্খ"}, {"jngg", "জঙ্গ"}, {"jnggz", "জঙ্গ্য"}, {"jnggh", "জঙ্ঘ"}, {"jngghz", "জঙ্ঘ্য"}, {"jngghr", "জঙ্ঘ্র"}, {"jngm", "জঙ্ম"},
 		{"jngfk", "জঙ্ক"}, {"jngfkt", "জঙ্‌ক্ত"}, {"jngfkz", "জঙ্ক্য"}, {"jngfkr", "জঙ্ক্র"}, {"jngfkf", "জঙ্ক্ষ"}, {"jngfkkh", "জঙ্ক্ষ"}, {"jngfksf", "জঙ্ক্ষ"}, {"jngfkh", "জঙ্খ"}, {"jngfg", "জঙ্গ"}, {"jngfgz", "জঙ্গ্য"}, {"jngfgh", "জঙ্ঘ"}, {"jngfghz", "জঙ্ঘ্য"}, {"jngfghr", "জঙ্ঘ্র"}, {"jngfm", "জঙ্ম"},
 		{"jnc", "জঞ্চ"}, {"jnffc", "জঞ্চ"}, {"jnj", "জঞ্জ"}, {"jnffj", "জঞ্জ"}, {"jnjh", "জঞ্ঝ"}, {"jnffjh", "জঞ্ঝ"}, {"jnch", "জঞ্ছ"}, {"jnffch", "জঞ্ছ"},
@@ -172,7 +172,7 @@ unordered_map<string, string> conjuncts_map = {
     {"tnd", "তন্দ"}, {"nnd", "নন্দ"}, {"mnd", "মন্দ"}, {"snd", "সন্দ"},
     {"gndh", "গন্ধ"}, {"gndhz", "গন্ধ্য"}, {"sndh", "সন্ধ"}, {"sndhz", "সন্ধ্য"},
     // ng_related_map
-    {"gng", "গং"}, {"ghng", "ঘং"}, {"cng", "চং"}, {"jng", "জং"}, {"nng", "নং"}, {"nfng", "ণং"}, {"tng", "তং"}, {"dhng", "ধং"}, {"png", "পং"}, {"mng", "মং"}, {"shng", "শং"}, {"sfng", "ষং"}, {"sng", "সং"}, {"hng", "হং"}, {"kfng", "ক্ষং"}, {"kkhng", "ক্ষং"}, {"ksfng", "ক্ষং"},
+        {"gng", "গং"}, {"ghng", "ঘং"}, {"cng", "চং"}, {"jng", "জং"}, {"nng", "নং"}, {"nfng", "ণং"}, {"tng", "তং"}, {"dhng", "ধং"}, {"png", "পং"}, {"mng", "মং"}, {"shng", "শং"}, {"sfng", "ষং"}, {"sng", "সং"}, {"hng", "হং"}, {"kfng", "ক্ষং"}, {"kkhng", "ক্ষং"}, {"ksfng", "ক্ষং"},
 		{"ngo", "ঙ"}, {"nga", "ঙা"}, {"ngi", "ঙি"}, {"ngii", "ঙী"}, {"ngu", "ঙু"}, {"nguff", "ঙ‌ু"}, {"nguu", "ঙূ"}, {"nguuff", "ঙ‌ূ"}, {"ngq", "ঙৃ"}, {"ngqff", "ঙ‌ৃ"}, {"nge", "ঙে"}, {"ngoi", "ঙৈ"},     
 		{"ngw", "ঙো"}, {"ngou", "ঙৌ"}, {"ngae", "ঙ্যা"},
 		{"ngof", "ঙঅ"}, {"ngaf", "ঙআ"}, {"ngif", "ঙই"}, {"ngiif", "ঙঈ"}, {"nguf", "ঙউ"}, {"nguuf", "ঙঊ"}, {"ngqf", "ঙঋ"}, {"ngef", "ঙএ"}, {"ngoif", "ঙই"},     
